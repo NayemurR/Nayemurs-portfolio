@@ -11,7 +11,7 @@ h1{
 .second-heading{
     font-size: 40px;
 }
-section{
+.flexible-section{
     display: flex;
     margin-bottom: 80px;
 }
